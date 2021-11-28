@@ -58,3 +58,18 @@ h4 {
 .temp {
   color: #949aa9;
 }
+
+.fine-print {
+  display: block;
+  margin: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
+#netlify-link {
+  text-decoration: none;
+  transition: ease-in-out;
+  color: #fcb5c4;
+}
+#netlify-link:hover {
+  text-decoration: underline;
+}
